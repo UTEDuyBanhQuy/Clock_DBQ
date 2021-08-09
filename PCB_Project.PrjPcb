@@ -125,6 +125,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGTMIFFX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - LED 7 thanh_ Đồng Hồ_Duybanhquy.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

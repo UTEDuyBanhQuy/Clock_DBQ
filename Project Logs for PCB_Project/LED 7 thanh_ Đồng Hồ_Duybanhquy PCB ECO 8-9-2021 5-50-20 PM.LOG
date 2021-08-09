@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=BT1 Pin=U1-10
+Removed Pin From Net: NetName=BT3 Pin=U1-12
+Added Component: Designator=C14(tu tantalum smd3216)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001954"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 106C-10uF 16V SMD3216"; VariantName = "[No Variations]"
+Added Component: Designator=R18(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=3.3V Pin=R18-1
+Added Pin To Net: NetName=NetMD1_2 Pin=R18-2
+Added Pin To Net: NetName=3.3V Pin=R19-1
+Added Pin To Net: NetName=NetMD1_3 Pin=R19-2
+Added Pin To Net: NetName=BT3 Pin=U1-10
+Added Pin To Net: NetName=BT1 Pin=U1-12
+Added Member To Class: ClassName=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy Member=Component AMS1 AMS1117-3.3V
+Added Member To Class: ClassName=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy Member=Component C14 10uF
+Added Member To Class: ClassName=ESP826 Member=Component R18 10k
+Added Member To Class: ClassName=ESP826 Member=Component R19 10k
+Added Member To Class: ClassName=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy Member=Component U2 78M05 SMD TO252
+Added Room: Name=DS3231
+Added Room: Name=ESP826
+Added Room: Name=Led 7 Seg 2.3In
+Added Room: Name=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy

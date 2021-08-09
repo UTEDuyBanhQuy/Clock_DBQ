@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3.3V Pin=JP1-1
+Removed Pin From Net: NetName=SWDIO Pin=JP1-2
+Removed Pin From Net: NetName=SWCLK Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Member From Class: ClassName=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy Member=JP1
+Added Component: Designator=JP?(JP 1x4 DC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Cong Ð?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=JP?-1
+Added Pin To Net: NetName=SWDIO Pin=JP?-2
+Added Pin To Net: NetName=SWCLK Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-4
+Added Member To Class: ClassName=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy Member=Component JP? JP 1x4 2.54
+Added Room: Name=DS3231
+Added Room: Name=ESP826
+Added Room: Name=Led 7 Seg 2.3In
+Added Room: Name=Ð?ng H?_ Led 7 Thanh_ Duy bánh quy
